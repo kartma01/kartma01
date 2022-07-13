@@ -1,7 +1,7 @@
 ### Hello! I am João Lucas
 
 - 📚 I currently do software engineering
-- 📚 Today I study Front-end
+- 📚 Today I study Back-end
 - 📩 Contact me on email: jlmwds@hotmail.com
 - 📚 Studying HTML,CSS,JS AND PYTHON
 
